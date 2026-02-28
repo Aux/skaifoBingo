@@ -13,8 +13,8 @@ function Nuzlocke() {
         'A pokemon is revived with Sacred Ash',
         'Vore themed pokemon',    // Suggested by HydroChromatic
         'Skai finds a Sacred Ash',    // Suggested by HydroChromatic
-        'nuzlocke 9',
-        'nuzlocke 10',
+        'A custom sprite references toast racks',    // Suggested by HydroChromatic
+        'A custom sprite references Jet 2 Holiday',    // Suggested by HydroChromatic
         'nuzlocke 11',
         'nuzlocke 12',
         'nuzlocke 13',
