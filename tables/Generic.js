@@ -7,6 +7,7 @@ function Generic() {
         'Shirt is stolen',
         'Game controller\'s batteries die',
         'In the intro for at least 37 minutes',
+        'Belly Drum',
         'Tonya says some Action Movie Shit',    // Suggested by BlurTheFur
         'Maws mentioned',    // Suggested by BlurTheFur
         'Paws mentioned',    // Suggested by BlurTheFur
@@ -16,7 +17,6 @@ function Generic() {
         '53 !!!',    // Suggested by BlurTheFur
         '67 !!!',    // Suggested by BlurTheFur
         'Skorb',    // Suggested by BlurTheFur
-        'skaifo example 9',
         'skaifo example 10',
         'skaifo example 11',
         'skaifo example 12',
@@ -54,6 +54,6 @@ function Generic() {
         '10000 bits redeem'
     ];
 
-    bingoListGeneric = [..._.sample(skaifoTiles, 15), ..._.sample(chatTiles, 8), ..._.sample(donationTiles, 1)];
+    bingoListGeneric = [..._.sample(skaifoTiles, 19), ..._.sample(chatTiles, 4), ..._.sample(donationTiles, 1)];
     console.log('bingoListGeneric loaded ' + bingoListGeneric.length  + ' tiles');
 }
