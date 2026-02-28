@@ -11,8 +11,8 @@ function Nuzlocke() {
         'A custom sprite stunlocks Skai for more than 10 seconds',
         'Skai defeats a gym leader',
         'A pokemon is revived with Sacred Ash',
-        'nuzlocke 7',
-        'nuzlocke 8',
+        'Vore themed pokemon',    // Suggested by HydroChromatic
+        'Skai finds a Sacred Ash',    // Suggested by HydroChromatic
         'nuzlocke 9',
         'nuzlocke 10',
         'nuzlocke 11',
