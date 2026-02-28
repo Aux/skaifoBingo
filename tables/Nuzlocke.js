@@ -15,23 +15,20 @@ function Nuzlocke() {
         'Skai finds a Sacred Ash',    // Suggested by HydroChromatic
         'A custom sprite references toast racks',    // Suggested by HydroChromatic
         'A custom sprite references Jet 2 Holiday',    // Suggested by HydroChromatic
-        'nuzlocke 11',
-        'nuzlocke 12',
-        'nuzlocke 13',
-        'nuzlocke 14',
-        'nuzlocke 15',
-        'nuzlocke 16',
-        'nuzlocke 17',
-        'nuzlocke 18',
-        'nuzlocke 19',
-        'nuzlocke 20',
-        'nuzlocke 21',
-        'nuzlocke 22',
-        'nuzlocke 23',
-        'nuzlocke 24',
-        'nuzlocke 25',
-        'nuzlocke 26',
-        'nuzlocke 27',
+        'Skai sees a Charizard',    // Suggested by BlurTheFur
+        'Skai kills a Charizard',    // Suggested by BlurTheFur
+        'A custom sprite references TECO/Tesco',    // Suggested by BlurTheFur
+        'A custom sprite references Popcorn',    // Suggested by BlurTheFur
+        'Skai gets called a Pikachu by an NPC',    // Suggested by BlurTheFur
+        'A custom sprite references Feetza',    // Suggested by BlurTheFur
+        'A custom sprite references Pufferfish',    // Suggested by BlurTheFur
+        'Skai runs out of pokeballs',    // Suggested by BlurTheFur
+        'A custom sprite references Otomatones',    // Suggested by BlurTheFur
+        'A custom sprite is a minger',    // Suggested by BlurTheFur
+        'Skai gets a masterball',    // Suggested by PerynCapybara
+        '3 pixel AK',    // Suggested by PerynCapybara
+        'Sweet message from a defeated trainer',    // Suggested by PerynCapybara
+        'Cantch',    // Suggested by PerynCapybara
         'nuzlocke 28',
         'nuzlocke 29',
         'nuzlocke 30',
