@@ -4,12 +4,13 @@ var nuzlockeTiles;
 function Nuzlocke() {
 
     nuzlockeTiles = [
-        'A pokemon does 👁️👄👁️',
         'A pokemon dies',
+        'A pokemon dies in one hit',
         'A legendary pokemon where it shouldn\'t be',
+        'A custom sprite does 👁️👄👁️',
         'A custom sprite stunlocks Skai for more than 10 seconds',
-        'nuzlocke 5',
-        'nuzlocke 6',
+        'Skai defeats a gym leader',
+        'A pokemon is revived with Sacred Ash',
         'nuzlocke 7',
         'nuzlocke 8',
         'nuzlocke 9',
