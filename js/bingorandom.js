@@ -96,18 +96,8 @@ function initBoard() {
 var bingo = function (bingoList, size, type) {
 	var bingoSelected = _.shuffle(bingoListGeneric.slice(0, 15));
 	switch (conferenceName) {
-		case "VRChat":
-			bingoSelected = _.shuffle(bingoSelected.concat(bingoListVRChat));
-			break;
-		case "Jackbox":
-			bingoSelected = _.shuffle(bingoSelected.concat(bingoListJackbox));
-			break;
-		case "FNAF":
-			var horrorSelected = _.sample(bingoListHorror, 10);
-			bingoSelected = _.shuffle(bingoSelected.concat(bingoListFNAF).concat(horrorSelected));
-			break;
-		case "Horror":
-			bingoSelected = _.shuffle(bingoSelected.concat(bingoListHorror));
+		case "Nuzlocke":
+			bingoSelected = _.shuffle(bingoSelected.concat(bingoListNuzlocke));
 			break;
 		default:
 			bingoSelected = _.shuffle(bingoListGeneric);
