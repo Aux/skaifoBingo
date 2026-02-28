@@ -16,4 +16,4 @@ Tile lists are saved in [`tables`](tables) in a `js` file named for the category
 This is a little more in depth, so this is placeholder text until I write a proper step by step.
 
 ## Contributors
-Thank you to HydroChromatic, BlurTheFur, and PerynCapybara for help with additional ideas for tiles.
+Thank you to HydroChromatic, BlurTheFur, PerynCapybara, and Johnny F for help with additional ideas for tiles.
