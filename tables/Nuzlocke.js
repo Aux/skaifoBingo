@@ -4,10 +4,10 @@ var nuzlockeTiles;
 function Nuzlocke() {
 
     nuzlockeTiles = [
-        'nuzlocke 1',
-        'nuzlocke 2',
-        'nuzlocke 3',
-        'nuzlocke 4',
+        'A pokemon does 👁️👄👁️',
+        'A pokemon dies',
+        'A legendary pokemon where it shouldn\'t be',
+        'A custom sprite stunlocks Skai for more than 10 seconds',
         'nuzlocke 5',
         'nuzlocke 6',
         'nuzlocke 7',
@@ -23,7 +23,17 @@ function Nuzlocke() {
         'nuzlocke 17',
         'nuzlocke 18',
         'nuzlocke 19',
-        'nuzlocke 20'
+        'nuzlocke 20',
+        'nuzlocke 21',
+        'nuzlocke 22',
+        'nuzlocke 23',
+        'nuzlocke 24',
+        'nuzlocke 25',
+        'nuzlocke 26',
+        'nuzlocke 27',
+        'nuzlocke 28',
+        'nuzlocke 29',
+        'nuzlocke 30',
     ];
 
     bingoListNuzlocke = [..._.sample(nuzlockeTiles, 24)];

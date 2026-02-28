@@ -5,8 +5,8 @@ function Generic() {
 
     skaifoTiles = [
         'Shirt is stolen',
-        'skaifo example 2',
-        'skaifo example 3',
+        'Game controller\'s batteries die',
+        'In the intro for at least 37 minutes',
         'skaifo example 4',
         'skaifo example 5',
         'skaifo example 6',
@@ -50,6 +50,6 @@ function Generic() {
         '10000 bits redeem'
     ];
 
-    bingoListGeneric = [..._.sample(skaifoTiles, 15), ..._.sample(chatTiles, 8), ..._.sample(donationTiles, 1)];
+    bingoListGeneric = [..._.sample(skaifoTiles, 15), ..._.sample(chatTiles, 5), ..._.sample(donationTiles, 1)];
     console.log('bingoListGeneric loaded ' + bingoListGeneric.length  + ' tiles');
 }
