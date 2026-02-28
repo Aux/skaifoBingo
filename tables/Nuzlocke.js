@@ -29,9 +29,6 @@ function Nuzlocke() {
         '3 pixel AK',    // Suggested by PerynCapybara
         'Sweet message from a defeated trainer',    // Suggested by PerynCapybara
         'Cantch',    // Suggested by PerynCapybara
-        'nuzlocke 28',
-        'nuzlocke 29',
-        'nuzlocke 30',
     ];
 
     bingoListNuzlocke = [..._.sample(nuzlockeTiles, 24)];
