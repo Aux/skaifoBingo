@@ -7,11 +7,15 @@ function Generic() {
         'Shirt is stolen',
         'Game controller\'s batteries die',
         'In the intro for at least 37 minutes',
-        'skaifo example 4',
-        'skaifo example 5',
-        'skaifo example 6',
-        'skaifo example 7',
-        'skaifo example 8',
+        'Tonya says some Action Movie Shit',    // Suggested by BlurTheFur
+        'Maws mentioned',    // Suggested by BlurTheFur
+        'Paws mentioned',    // Suggested by BlurTheFur
+        'Bellies mentioned',    // Suggested by BlurTheFur
+        'FWEET',    // Suggested by BlurTheFur
+        'ENGERLAND',    // Suggested by BlurTheFur
+        '53 !!!',    // Suggested by BlurTheFur
+        '67 !!!',    // Suggested by BlurTheFur
+        'Skorb',    // Suggested by BlurTheFur
         'skaifo example 9',
         'skaifo example 10',
         'skaifo example 11',
@@ -27,7 +31,7 @@ function Generic() {
     ];
     chatTiles = [
         'A chatter loses the roulette',
-        'chat example 2',
+        'halp 🐸',
         'chat example 3',
         'chat example 4',
         'chat example 5',
