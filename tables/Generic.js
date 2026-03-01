@@ -49,9 +49,19 @@ function Generic() {
         '50 gift subs',
         '100 gift subs',
         '200 bits redeem',
+        '500 bits redeem',
+        '550 bits redeem',
         '666 bits redeem',
-        '1000 bits redeem',
-        '10000 bits redeem'
+        '700 bits redeem',
+        '800 bits redeem',
+        '911 bits redeem',
+        '1337 bits redeem',
+        '1979 bits redeem',
+        '2000+ bits redeem',
+        '2500 bits redeem',
+        '5000 bits redeem',
+        '6666 bits redeem',
+        '9000+ bits redeem'
     ];
 
     bingoListGeneric = [..._.sample(skaifoTiles, 19), ..._.sample(chatTiles, 4), ..._.sample(donationTiles, 1)];
