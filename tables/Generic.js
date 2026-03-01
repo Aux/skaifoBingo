@@ -17,30 +17,14 @@ function Generic() {
         'ENGERLAND',    // Suggested by BlurTheFur
         '53 !!!',    // Suggested by BlurTheFur
         '67 !!!',    // Suggested by BlurTheFur
-        'Skorb',    // Suggested by BlurTheFur
-        'skaifo example 10',
-        'skaifo example 11',
-        'skaifo example 12',
-        'skaifo example 13',
-        'skaifo example 14',
-        'skaifo example 15',
-        'skaifo example 16',
-        'skaifo example 17',
-        'skaifo example 18',
-        'skaifo example 19',
-        'skaifo example 20'
+        'Skorb'    // Suggested by BlurTheFur
     ];
     chatTiles = [
         'A chatter loses the roulette',
         'halp 🐸',
         'Perfectly timed PS1 redeem',
         'Perfectly timed !hawk',
-        'Skai reacts poorly to a scan',
-        'chat example 6',
-        'chat example 7',
-        'chat example 8',
-        'chat example 9',
-        'chat example 10'
+        'Skai reacts poorly to a scan'
     ];
     donationTiles = [
         'Someone resubs for over a year',
@@ -65,6 +49,6 @@ function Generic() {
         '9000+ bits redeem'
     ];
 
-    bingoListGeneric = [..._.sample(skaifoTiles, 19), ..._.sample(chatTiles, 4), ..._.sample(donationTiles, 1)];
+    bingoListGeneric = [..._.sample(skaifoTiles, 14), ..._.sample(chatTiles, 4), ..._.sample(donationTiles, 1)];
     console.log('bingoListGeneric loaded ' + bingoListGeneric.length  + ' tiles');
 }
