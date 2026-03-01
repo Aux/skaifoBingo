@@ -5,12 +5,17 @@ function Nuzlocke() {
 
     nuzlockeTiles = [
         'A pokemon dies',
-        'A pokemon dies in one hit',
+        'One of Skai\'s pokemon dies in one hit',
+        'Skai loses a pokemon to his own hubris',
         'A legendary pokemon where it shouldn\'t be',
         'A custom sprite does 👁️👄👁️',
         'A custom sprite stunlocks Skai for more than 10 seconds',
         'Skai defeats a gym leader',
         'A pokemon is revived with Sacred Ash',
+        '*Goofy scream*',
+        'Poorly timed rival fight',
+        'A rudy themed custom sprite',
+        'A shiny pokemon appears',
         'Vore themed pokemon',    // Suggested by HydroChromatic
         'Skai finds a Sacred Ash',    // Suggested by HydroChromatic
         'A custom sprite references toast racks',    // Suggested by HydroChromatic
