@@ -3,8 +3,8 @@ A basic bingo card generator for https://www.twitch.tv/skaifox streams. Modified
 
 ### Available Categories
 #### Generic:
-- 20 skaifo tiles (15 in 24 chance)  
-- 10 chat tiles (8 in 24 chance)  
+- 20 skaifo tiles (19 in 24 chance)  
+- 10 chat tiles (4 in 24 chance)  
 - 10 donation tiles (1 in 24 chance)   
 #### Nuzlocke
 - 25 tiles (24 in 48 chance)  
