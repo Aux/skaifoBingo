@@ -9,6 +9,7 @@ function Generic() {
         'In the intro for at least 37 minutes',
         'Belly Drum',
         'Technical Difficulties',
+        'Everyone spams the Fish redeem',
         'Tonya says some Action Movie Shit',    // Suggested by BlurTheFur
         'Maws mentioned',    // Suggested by BlurTheFur
         'Paws mentioned',    // Suggested by BlurTheFur
@@ -49,6 +50,6 @@ function Generic() {
         '9000+ bits redeem'
     ];
 
-    bingoListGeneric = [..._.sample(skaifoTiles, 14), ..._.sample(chatTiles, 4), ..._.sample(donationTiles, 1)];
+    bingoListGeneric = [..._.sample(skaifoTiles, 15), ..._.sample(chatTiles, 4), ..._.sample(donationTiles, 1)];
     console.log('bingoListGeneric loaded ' + bingoListGeneric.length  + ' tiles');
 }
