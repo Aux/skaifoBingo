@@ -8,6 +8,7 @@ function Generic() {
         'Game controller\'s batteries die',
         'In the intro for at least 37 minutes',
         'Belly Drum',
+        'Technical Difficulties',
         'Tonya says some Action Movie Shit',    // Suggested by BlurTheFur
         'Maws mentioned',    // Suggested by BlurTheFur
         'Paws mentioned',    // Suggested by BlurTheFur
@@ -32,9 +33,9 @@ function Generic() {
     chatTiles = [
         'A chatter loses the roulette',
         'halp 🐸',
-        'chat example 3',
-        'chat example 4',
-        'chat example 5',
+        'Perfectly timed PS1 redeem',
+        'Perfectly timed !hawk',
+        'Skai reacts poorly to a scan',
         'chat example 6',
         'chat example 7',
         'chat example 8',
